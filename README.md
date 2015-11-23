@@ -1,20 +1,20 @@
 # HardCandy
 
-** HaaS added to Pez(dispenser) **
+**HaaS added to Pez(dispenser)**
 
-** Start Date: Dec 1 **
-** Inception Location: Denver Labs **
+**Start Date: Dec 1**
+**Inception Location: Denver Labs**
 
 ## Team
 
-** PCFS **
+**PCFS**
 * Mark Alston
 * Ian Zink
 * Mandar Jog
 * Joe Szodfridt
 * John Calabrese
 
-** PEZ **
+**PEZ**
 * Josh Gray
 * Patrick Noia
 * Sean Murray
