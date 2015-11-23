@@ -27,3 +27,4 @@
 * tracker: pez-dev - `@hardcandy` label
 * github org: https://github.com/pivotal-pez
 * wercker org: https://app.wercker.com/#pivotal-pez
+* project lean canvas: https://docs.google.com/drawings/d/1cJ_vjoUMPWt7cP2F7vdZiz9QjyRqOaFp2kEPSMwyCKI/edit
