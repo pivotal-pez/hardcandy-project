@@ -50,10 +50,15 @@ interface. Then refactor and add a REST API around Innkeeper.
   - After adding single host lab, revisit priorities and consider implementing, `Vend Multi-Host Lab` MVP before the `Basic HaaS Management` MVP
 
 ## Personnas
-  - Metal User - User who wants some metal
-  - PEZ  - The Pivotal elastic zone system
-  - Innkeeper - The hardware provisioning system
-  - Management User - Management user who is concerned about usage, cost, etc.
+  - Metal consumer - User who wants some metal, generally interfaces through the portal
+  - Business Mgr - Management user who is concerned about usage, cost, etc.
+  - Dispenser API Client - Some API client (command line, or PEZ Portal) that wants to use dispenser functionality
+  - Innkeeper API Client - Some API client that wants to use the metal provisioning
+  services
+  - Dispenser - the dispenser service that performs internal functions not necessarily initiated by an API call
+  - Innkeeper - the innkeeper service that performs internal functions that are not
+  necessarily initiated by an API call
+
 
 
 ## Retrospective
