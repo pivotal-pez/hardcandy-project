@@ -9,6 +9,9 @@ Images from inception:
 Initial Demo MVP:
 [mvp-demo](https://www.pivotaltracker.com/reports/v2/projects/1366454/epics/2230572)
 
+Lean-Canvas:
+[canvas](https://docs.google.com/a/pivotal.io/drawings/d/1cJ_vjoUMPWt7cP2F7vdZiz9QjyRqOaFp2kEPSMwyCKI/edit?usp=sharing)
+
 ## Goals
 - a starting point for all things pez
 - automated provisioning of servers, storage, etc
